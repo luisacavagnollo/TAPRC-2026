@@ -1,4 +1,3 @@
-incluir no requirements.txt -->  azure-storage-file-datalake
 import csv
 import io
 import logging
