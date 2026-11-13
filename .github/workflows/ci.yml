@@ -23,7 +23,7 @@ jobs:
       id-token: write
       contents: read
     env:
-      AZURE_FUNCTIONAPP_NAME: "funcapp-anapaula001"
+      AZURE_FUNCTIONAPP_NAME: "funcapp-luisa0001"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
