@@ -4,4 +4,4 @@
 
 azure-functions
 pyodbc
-azure.storage.filedatalake
+azure-storage-file-datalake
